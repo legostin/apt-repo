@@ -1,0 +1,30 @@
+Package: cull
+Version: 0.6.0
+Architecture: arm64
+Maintainer: legostin
+Installed-Size: 3776
+Filename: ./cull_0.6.0_linux_arm64.deb
+Size: 1414052
+MD5sum: f48598365652014065302531fa14fd4e
+SHA1: 44f152fda3d95fbe92a31a91e9b6197c5937f641
+SHA256: 13dd605cecb19e4239cac9cca8c2801cd10300531a84de884b3f9f437fa99f68
+Priority: optional
+Homepage: https://github.com/legostin/cull
+Description: Interactive TUI disk space analyzer
+License: MIT
+
+Package: cull
+Version: 0.6.0
+Architecture: amd64
+Maintainer: legostin
+Installed-Size: 3748
+Filename: ./cull_0.6.0_linux_amd64.deb
+Size: 1523420
+MD5sum: 2f2435f98a200395d5e340acfb9308c7
+SHA1: 34f72e29614d30b6ec9aafbbc734f04e1faa2c3c
+SHA256: a70302cbef580f2cc484ba44c5085902c0202aa5f6229e0fc2218047294e8ba5
+Priority: optional
+Homepage: https://github.com/legostin/cull
+Description: Interactive TUI disk space analyzer
+License: MIT
+
