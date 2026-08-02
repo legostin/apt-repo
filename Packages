@@ -87,3 +87,32 @@ Homepage: https://github.com/legostin/cull
 Description: Interactive TUI disk space analyzer
 Architecture-Variant: amd64v1
 
+Package: cull
+Version: 0.8.1
+Architecture: arm64
+Maintainer: legostin
+Installed-Size: 4160
+Filename: ./cull_0.8.1_linux_arm64.deb
+Size: 1588426
+MD5sum: 30e001561dfae40af6f27d5fe196e7c6
+SHA1: d26efa896f58a10d78798772fad82a1fbfe6ee73
+SHA256: 892bed829e529f78653afb47da0fd8af2edc6b06633a9a2a5887665b32006508
+Priority: optional
+Homepage: https://github.com/legostin/cull
+Description: Interactive TUI disk space analyzer
+
+Package: cull
+Version: 0.8.1
+Architecture: amd64
+Maintainer: legostin
+Installed-Size: 4268
+Filename: ./cull_0.8.1_linux_amd64.deb
+Size: 1732932
+MD5sum: f8b6a4cc9abab39832168257250a9799
+SHA1: 2258499296e0f514334889ee3be440b2e7f67e44
+SHA256: a9dbae21267a171c779de857b1d7d880416165621f5ed321b43e85f11d97d4e2
+Priority: optional
+Homepage: https://github.com/legostin/cull
+Description: Interactive TUI disk space analyzer
+Architecture-Variant: amd64v1
+
